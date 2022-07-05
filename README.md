@@ -1,4 +1,3 @@
-Assignment
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
   235
@@ -6,7 +5,7 @@ Students in primary school often arrange arithmetic problems vertically to make 
 -----
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
 
-For example
+Example
 Function Call:
 
 arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
@@ -44,4 +43,4 @@ Testing
 The unit tests for this project are in test_module.py. We are running the tests from test_module.py in main.py for your convenience. The tests will run automatically whenever you hit the "run" button. Alternatively you may run the tests by inputting pytest in the console.
 
 Submitting
-Copy your project's URL and submit it to freeCodeCamp.
+Copy your project's URL and submit it below.
